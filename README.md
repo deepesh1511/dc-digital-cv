@@ -98,5 +98,10 @@
       <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
   </div>
 </div>
+</br>
+
+## 📈 GitHub Stats 
+[![Deepesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepesh1511&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/deepesh1511/github-readme-stats)
+
 <br/>
 <p align="center">Thank you for visiting my digital CV !!</p>
