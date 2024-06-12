@@ -52,7 +52,7 @@
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-        <img src="hhttps://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -66,7 +66,6 @@
     <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </div>
   <!-- IDE -->
@@ -98,10 +97,8 @@
       <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
   </div>
 </div>
-</br>
 
 ## 📈 GitHub Stats 
 [![Deepesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepesh1511&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/deepesh1511/github-readme-stats)
 
-<br/>
 <p align="center">Thank you for visiting my digital CV !!</p>
