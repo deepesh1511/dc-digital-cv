@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/deepesh-chandra-61683143/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/deepesh1511/dc-digital-cv/blob/main/profile-title-deepesh.png" alt="My banner">
+    <img src="https://raw.githubusercontent.com/deepesh1511/dc-digital-cv/main/profile-title-deepesh.png" alt="My banner">
   </a>
 </p>
 
