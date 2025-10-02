@@ -36,7 +36,7 @@ I am Test Automation Manager with 14+ years delivering automation strategy, fram
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/playwright.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Playwright"> Playwright
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/selenium.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Selenium"> Selenium
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cypress.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Cypress"> Cypress
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gauge.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Gauge"> Gauge
+  <span style="font-size:18px;vertical-align:middle;margin-right:6px">🧪</span> Gauge
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webdriverio.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="WebdriverIO"> WebdriverIO
 
  - GenAI / AI testing:
@@ -51,12 +51,12 @@ I am Test Automation Manager with 14+ years delivering automation strategy, fram
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gitlab.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="GitLab"> GitLab Pipelines
 
  - API & Performance:
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Rest Assured"> Rest Assured
+  <img src="https://cdn.simpleicons.org/java/007396" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Java"> Rest Assured
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Postman"> Postman
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apachejmeter.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="JMeter"> JMeter
 
  - Languages & Runtime:
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Java"> Java
+  <img src="https://cdn.simpleicons.org/java/007396" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Java"> Java
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="JavaScript"> JavaScript
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="C#"> C#
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Node.js"> Node.js
