@@ -11,12 +11,6 @@
   <a href="./Resume_Deepesh_2025.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobe" alt="Download CV">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepesh-chandra-61683143/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/deepesh1511/dc-digital-cv/main/profile-title-deepesh.png" alt="My banner">
-  </a>
   <a href="https://deepesh1511.github.io/dc-digital-cv/" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/Digital%20CV-Portfolio-0f172a?style=for-the-badge&logo=github" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/deepesh-chandra-61683143/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="./Resume_Deepesh_2025.pdf" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe" alt="Resume"></a>
