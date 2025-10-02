@@ -4,13 +4,11 @@
   </a>
 </p>
 
-## Hello — I'm Deepesh Chandra 👋
+## Hello 👋
 
----
-I am Test Automation Manager with 14+ years delivering automation strategy, framework design, and GenAI validation across insurance, healthcare, and media. Experienced in shortening regression cycles, integrating CI/CD pipelines, and leading cross-functional teams to ship higher-quality releases faster.
+I am Test Automation Manager with 14+ years delivering automation strategy, framework design, and GenAI validation strategies across insurance, healthcare, and media domains. Experienced in shortening regression cycles, integrating CI/CD pipelines, creating feedback loops for automated executions, and leading cross-functional teams to ship higher-quality releases faster.
 ---
 
-<!-- Download button -->
 <p align="center">
   <a href="./Resume_Deepesh_2025.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobe" alt="Download CV">
@@ -34,12 +32,41 @@ I am Test Automation Manager with 14+ years delivering automation strategy, fram
 
 ## Technical highlights
 
-- Automation & Frameworks: Playwright · Selenium · Cypress · Gauge · WebdriverIO
-- GenAI / AI testing: RAG validation · Microsoft Semantic Kernel · Playwright MCP
-- CI/CD & DevOps: Azure DevOps · GitHub Actions · Jenkins · GitLab Pipelines
-- API & Performance: Rest Assured · Postman · JMeter
-- Languages & Runtime: Java · JavaScript · C# · Node.js · VB
-- Datastores: SQL · MongoDB · Cosmos DB · MySQL
+ - Automation & Frameworks:
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/playwright.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Playwright"> Playwright
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/selenium.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Selenium"> Selenium
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cypress.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Cypress"> Cypress
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gauge.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Gauge"> Gauge
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webdriverio.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="WebdriverIO"> WebdriverIO
+
+ - GenAI / AI testing:
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="GenAI"> RAG validation
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoft.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Microsoft"> Microsoft Semantic Kernel
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/playwright.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Playwright MCP"> Playwright MCP
+
+ - CI/CD & DevOps:
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/azuredevops.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Azure DevOps"> Azure DevOps
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="GitHub Actions"> GitHub Actions
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jenkins.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Jenkins"> Jenkins
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gitlab.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="GitLab"> GitLab Pipelines
+
+ - API & Performance:
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Rest Assured"> Rest Assured
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Postman"> Postman
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apachejmeter.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="JMeter"> JMeter
+
+ - Languages & Runtime:
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Java"> Java
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="JavaScript"> JavaScript
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="C#"> C#
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Node.js"> Node.js
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualbasic.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="VB"> VB
+
+ - Datastores:
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sqlite.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="SQL"> SQL
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="MongoDB"> MongoDB
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoft.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="Cosmos DB"> Cosmos DB
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="18" height="18" style="vertical-align:middle;margin-right:6px" alt="MySQL"> MySQL
 
 ---
 
