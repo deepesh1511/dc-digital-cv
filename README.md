@@ -6,16 +6,6 @@
 
 ## Hello — I'm Deepesh Chandra 👋
 
-**Contact**
-
-- Address: 16 Drake Ct, South Windsor, CT – 06074
-- Mobile: 860-879-4274
-- Email: deepeshchandra.jc@gmail.com
-- Digital CV: https://deepesh1511.github.io/dc-digital-cv/
-- LinkedIn: https://www.linkedin.com/in/deepesh-chandra-61683143/
-
----
-
 <!-- Download button -->
 <p align="center">
   <a href="./Resume_Deepesh_2025.pdf" target="_blank" rel="noopener noreferrer">
@@ -27,17 +17,7 @@
   <a href="https://www.linkedin.com/in/deepesh-chandra-61683143/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/deepesh1511/dc-digital-cv/main/profile-title-deepesh.png" alt="My banner">
   </a>
-</p>
-
-## Hello — I'm Deepesh Chandra 👋
-
-Senior Test Automation Manager · GenAI validation · CI/CD & DevOps
-
-<!-- Contact & social badges -->
-<p align="center">
   <a href="https://deepesh1511.github.io/dc-digital-cv/" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/Digital%20CV-Portfolio-0f172a?style=for-the-badge&logo=github" alt="Portfolio"></a>
-  <a href="mailto:deepeshchandra.jc@gmail.com"><img src="https://img.shields.io/badge/Email-deepeshchandra.jc@gmail.com-c14438?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="tel:+18608794274"><img src="https://img.shields.io/badge/Phone-+1%20860%20879%204274-2b2d42?style=for-the-badge&logo=phone" alt="Phone"></a>
   <a href="https://www.linkedin.com/in/deepesh-chandra-61683143/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="./Resume_Deepesh_2025.pdf" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe" alt="Resume"></a>
 </p>
