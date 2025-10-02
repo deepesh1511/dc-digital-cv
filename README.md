@@ -6,6 +6,10 @@
 
 ## Hello — I'm Deepesh Chandra 👋
 
+---
+I am Test Automation Manager with 14+ years delivering automation strategy, framework design, and GenAI validation across insurance, healthcare, and media. Experienced in shortening regression cycles, integrating CI/CD pipelines, and leading cross-functional teams to ship higher-quality releases faster.
+---
+
 <!-- Download button -->
 <p align="center">
   <a href="./Resume_Deepesh_2025.pdf" target="_blank" rel="noopener noreferrer">
@@ -20,7 +24,6 @@
 
 ## Table of Contents
 
-- [One-page summary](#one-page-summary)
 - [Technical highlights](#technical-highlights)
 - [Quick facts & badges](#quick-facts--badges)
 - [Professional experience](#professional-experience)
@@ -28,10 +31,6 @@
 - [Ongoing learning & certifications](#ongoing-learning--certifications)
 
 ---
-
-## One-page summary
-
-Test Automation Manager with 14+ years delivering automation strategy, framework design, and GenAI validation across insurance, healthcare, and media. Experienced in shortening regression cycles, integrating CI/CD pipelines, and leading cross-functional teams to ship higher-quality releases faster.
 
 ## Technical highlights
 
