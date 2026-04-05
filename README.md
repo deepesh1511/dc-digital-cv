@@ -166,7 +166,7 @@ Associate – Quality Engineering
 
 <!-- QR code linking to the resume PDF (raw GitHub URL) -->
 <p align="center">
-  <a href="https://raw.githubusercontent.com/deepesh1511/dc-digital-cv/main/Resume_Deepesh_2025.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://raw.githubusercontent.com/deepesh1511/dc-digital-cv/main/Resume_Deepesh_2026_April.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://raw.githubusercontent.com/deepesh1511/dc-digital-cv/main/Resume_Deepesh_2025.pdf" alt="QR code to resume">
   </a>
   <br>
