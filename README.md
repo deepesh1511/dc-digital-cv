@@ -8,7 +8,7 @@
 
 ## Hello 👋
 
-I am Test Automation Manager with 15 years delivering automation strategy, framework design, and GenAI validation strategies across insurance, healthcare, and media domains. Experienced in shortening regression cycles, integrating CI/CD pipelines, creating feedback loops for automated executions, and leading cross-functional teams to ship higher-quality releases faster.
+I am Automation Manager with 14+ years of hands on experience building reliable, scalable automation and AI driven testing frameworks across commercial insurance (CL & P&C), healthcare, and media domains. Skilled in modern automation tools, programming languages, and cloud integrated QA practices. Known for leading high performing teams, simplifying complex testing ecosystems, and driving CI/CD aligned quality engineering. Strong believer in quality first delivery, practical innovation, and continuous improvement in both technology and process.
 ---
 
 <p align="center">
