@@ -12,7 +12,7 @@ I am Automation Manager with 14+ years of hands on experience building reliable,
 ---
 
 <p align="center">
-  <a href="./Resume_Deepesh_2025.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="./Resume_Deepesh_2026_April.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobe" alt="Download CV">
   </a>
   <a href="https://deepesh1511.github.io/dc-digital-cv/" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/Digital%20CV-Portfolio-0f172a?style=for-the-badge&logo=github" alt="Portfolio"></a>
