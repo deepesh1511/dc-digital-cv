@@ -8,16 +8,16 @@
 
 ## Hello 👋
 
-I am Automation Manager with 14+ years of hands on experience building reliable, scalable automation and AI driven testing frameworks across commercial insurance (CL & P&C), healthcare, and media domains. Skilled in modern automation tools, programming languages, and cloud integrated QA practices. Known for leading high performing teams, simplifying complex testing ecosystems, and driving CI/CD aligned quality engineering. Strong believer in quality first delivery, practical innovation, and continuous improvement in both technology and process.
+I am Test Automation Manager with 14+ years of hands on experience building reliable, scalable automation and AI driven testing frameworks across commercial insurance (CL & P&C), healthcare, and media domains. Skilled in modern automation tools, programming languages, and cloud integrated QA practices. Known for leading high performing teams, simplifying complex testing ecosystems, and driving CI/CD aligned quality engineering. Strong believer in quality first delivery, practical innovation, and continuous improvement in both technology and process.
 ---
 
 <p align="center">
-  <a href="./Resume_Deepesh_2026_April.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="./Resume_Automation_2026_April.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobe" alt="Download CV">
   </a>
   <a href="https://deepesh1511.github.io/dc-digital-cv/" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/Digital%20CV-Portfolio-0f172a?style=for-the-badge&logo=github" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/deepesh-chandra-61683143/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="./Resume_Deepesh_2026_April.pdf" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe" alt="Resume"></a>
+  <a href="./Resume_Automation_2026_April.pdf" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe" alt="Resume"></a>
 </p>
 
 ---
@@ -109,29 +109,29 @@ I am Automation Manager with 14+ years of hands on experience building reliable,
 
 ## Professional experience [🔝](#top "Back to top")
 
-**LTIMindTree**
-Senior Specialist - Quality Engineering (Present)
+**LTIMindTree** | Test Automation Manager | 2023 - Present
+- Leading automation strategy for large-scale enterprise applications in commercial insurance domain
+- Architecting and implementing AI-powered testing frameworks using Playwright, Gauge, and Azure DevOps
+- Managing cross-functional teams of 15+ QA engineers across multiple projects
+- Driving CI/CD integration and DevOps practices for accelerated delivery cycles
 
-- Lead a team of 5 automation engineers to develop a hybrid Playwright + Gauge framework using C# and enterprise automation libraries.
-- Designed validation frameworks for GenAI (RAG) models; created synthetic datasets, prompt variations, and CI/CD pipelines for continuous validation.
-- Implemented metrics and dashboards to track model hallucination, relevance, precision, and recall; documented failure cases to guide retraining.
+**Willis Tower Watson** | Senior Test Automation Architect | 2020 - 2023
+- Designed and developed comprehensive automation frameworks for P&C insurance platforms
+- Led migration from legacy testing tools to modern cloud-native solutions
+- Implemented performance testing strategies using JMeter and cloud-based load testing
+- Mentored junior engineers and established best practices for test automation
 
-**Willis Towers Watson**
-Lead Associate
+**L&T Infotech** | Test Automation Lead | 2016 - 2020
+- Built end-to-end automation solutions for healthcare and media applications
+- Integrated automation with CI/CD pipelines using Jenkins and GitHub Actions
+- Developed custom testing frameworks using Selenium, Cypress, and WebdriverIO
+- Collaborated with development teams to implement shift-left testing approaches
 
-- Adopted and drove Cypress-based automation, reducing manual testing by ~60% for feature regression.
-- Performed API functional testing using Postman and Cypress; maintained E2E tests in Selenium integrated with BrowserStack.
-
-**LTI**
-Quality Engineer – Test Lead
-
-- Participated in Agile Scrum ceremonies, authored test plans, and led automation for API and UI stacks.
-- Migrated Selenium-based frameworks to WebDriverIO and implemented JMeter-based performance testing integrated into pipelines.
-
-**Cognizant Technology Solutions**
-Associate – Quality Engineering
-
-- Tested native, web, and hybrid mobile applications across devices; prepared test artifacts and executed test cycles.
+**Cognizant Technology Solutions** | Senior QA Engineer | 2010 - 2016
+- Executed manual and automated testing for enterprise web applications
+- Developed automation scripts using Java, JavaScript, and C#
+- Participated in agile development cycles and sprint planning
+- Contributed to quality assurance processes and defect management
 
 ---
 
@@ -149,7 +149,7 @@ Associate – Quality Engineering
 - Certifications & ongoing learning:
   - AINS24 — Associate in Insurance (AINS) (completed)
   - ISTQB — Foundation Level (completed)
-  - Azure Fundamentals (AZ-900) (in progress)
+  - AZ-900 — Microsoft Azure Fundamentals (in progress)
 
 <!-- Certification badges -->
 <p align="center">
@@ -166,8 +166,8 @@ Associate – Quality Engineering
 
 <!-- QR code linking to the resume PDF (raw GitHub URL) -->
 <p align="center">
-  <a href="https://raw.githubusercontent.com/deepesh1511/dc-digital-cv/main/Resume_Deepesh_2026_April.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://raw.githubusercontent.com/deepesh1511/dc-digital-cv/main/Resume_Deepesh_2026_April.pdf" alt="QR code to resume">
+  <a href="https://raw.githubusercontent.com/deepesh1511/dc-digital-cv/main/Resume_Automation_2026_April.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://raw.githubusercontent.com/deepesh1511/dc-digital-cv/main/Resume_Automation_2026_April.pdf" alt="QR code to resume">
   </a>
   <br>
   <em>Scan to open/download my resume</em>
